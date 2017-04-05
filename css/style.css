@@ -1,0 +1,55 @@
+body{
+  background:url("images/train.jpg");
+}
+.jumbotron{
+  background-color:#6E6A4D;
+  color:#87A279;
+  border:5px #87A279 solid;
+  font: 2em Arial,sans-serif;
+}
+.ride{
+  font-size:40px;
+  color:#87A279;
+}
+
+.panel-primary>.panel-heading{
+  background-color:#87A279;
+  border-color: #87A279;
+}
+
+.panel-body{
+  border:5px #87A279 solid;
+  background-color: #FFF4D9;
+}
+.current ,.add{
+  background-color: #FFF4D9;
+  color:#87A279;
+  font-size:20px;
+  padding: 5px;
+}
+#trainTable{
+  background-color:#6E6A4D;
+  color:#87A279;
+  font-size:20px;
+  font: bold;
+}
+#trainNameInput,#destinationInput,#timeInput,#frequencyInput{
+  color:#87A279;
+  font-size:18px;
+  background-color:#6E6A4D;
+}
+.form-group{
+  color: #87A279;
+  font-size:20px;
+}
+.btn{
+  color: #87A279;
+  background-color:#6E6A4D;
+  font-size:20px;
+}
+
+
+
+
+
+"http://blog.hdwallsource.com/wp-content/uploads/2016/01/train-track-wallpapers-37967-38837-hd-wallpapers.jpg"
